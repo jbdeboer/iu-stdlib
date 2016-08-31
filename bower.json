@@ -1,0 +1,23 @@
+{
+  "name": "iu-stdlib",
+  "authors": [
+    "James deBoer <james@huronbox.com>"
+  ],
+  "description": "Standard library for Infinite Unit projects",
+  "main": "",
+  "keywords": [
+    "javascript",
+    "small",
+    "fast",
+    "performance"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
